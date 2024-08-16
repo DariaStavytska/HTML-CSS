@@ -1,3 +1,3 @@
 # HTML-CSS
 
-## [HTML, CSS - "Banderogus"](https://github.com/RomanPravdiuk/HTML-CSS/blob/main/mygus.html)
+## [HTML, CSS - "Banderogus"](https://github.com/DariaStavytska/HTML-CSS/blob/main/mygus.html)
